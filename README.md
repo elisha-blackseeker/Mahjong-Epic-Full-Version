@@ -232,3 +232,6 @@ This repository serves as the official landing page for Mahjong Epic. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Mahjong Epic today!**
+
+---
+**Last updated:** 2026-09-09 14:58:30 UTC
